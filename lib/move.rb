@@ -17,5 +17,7 @@ end
 
 input_to_index("32")
 
-def move()
+def move(array, index, char="X")
+  
+end
   
