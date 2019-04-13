@@ -20,4 +20,5 @@ input_to_index("32")
 def move(array, index, char="X")
   array[index] = char
 end
+
   
