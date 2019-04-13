@@ -16,4 +16,6 @@ def input_to_index(input)
 end
 
 input_to_index("32")
+
+def move()
   
