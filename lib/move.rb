@@ -21,4 +21,5 @@ def move(array, index, char="X")
   array[index] = char
 end
 
+
   
