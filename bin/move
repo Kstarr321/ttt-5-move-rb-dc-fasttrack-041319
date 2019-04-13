@@ -12,6 +12,6 @@ index = gets.strip
 
 position = input_to_index(index)
 
-move(
+move(position)
 
 board = [" "," "," "," "," "," "," "," "," "]
