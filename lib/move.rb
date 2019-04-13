@@ -14,4 +14,6 @@ def input_to_index(input)
   puts index_number
   return index_number
 end
+
+input_to_index("32")
   
