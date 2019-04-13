@@ -12,6 +12,7 @@ end
 def input_to_index(input)
   index_number = input.to_i 
   puts index_number
+  puts index_number.class
   return index_number
 end
 
